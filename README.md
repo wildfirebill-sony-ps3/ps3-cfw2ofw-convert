@@ -1,4 +1,5 @@
 modified to add gui
+Modified by [wildfirebill](https://github.com/wildfirebill)
 
 run with
 python gui.py
